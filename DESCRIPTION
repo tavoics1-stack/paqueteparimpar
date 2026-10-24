@@ -1,0 +1,10 @@
+Package: paqueteparimpar
+Type: Package
+Title: Identificar y Contar Numeros Pares e Impares
+Version: 0.1.0
+Authors@R: person("Gustavo", "Chaglla", email = "CAMBIAR_POR_TU_CORREO@example.com", role = c("aut", "cre"))
+Description: Identifica, cuenta y muestra los numeros pares e impares
+    de un vector de numeros enteros, siguiendo el ejercicio de clase.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
